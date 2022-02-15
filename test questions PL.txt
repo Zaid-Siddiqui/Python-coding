@@ -1,0 +1,21 @@
+Student ID  - odd
+
+Ask (require) the user to enter 5 sentences.
+Do it with loop. 
+To save the answers - use list.
+Find and store the longest word in each sentence.
+Display 5 longest words on the screen.
+Remove the last 2 letters of each words.
+Use sets functionality to find and display common letters within this 5 words.
+Use at least 2 functions somewhere to get the highest grade.
+------------
+
+Student ID  - even
+
+Create and save a file with 5 sentences (using notepad), path for file - "c:\new\test.txt".
+Read the content of the file, but save only every second sentence of the file. (sentences nr. 2 and 4.)
+Find and store the longest word in each sentence.
+Display 2 longest words on the screen.
+Remove the first 3 letters of each word.
+Use sets functionality to find and display symmetric difference within this 2 words.
+Use at least 2 functions somewhere to get the highest grade.
